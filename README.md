@@ -11,4 +11,4 @@ Each folder also contains a Jupyter Notebook that will generate all the plots fo
 
 Intern: Benjamin Willis
 
-Mentor: Robert Podgornery
+Mentor: Robert Podgorney
