@@ -10,4 +10,5 @@ The folder "z5kgs_1m_no_exit_perfs" holds all the input file for the 1m fracture
 Each folder also contains a Jupyter Notebook that will generate all the plots found in the "plots" folders. Each powerpoint slide with a plot on it has a list of each input and output file that was used in that case.
 
 Intern: Benjamin Willis
+
 Mentor: Robert Podgornery
