@@ -7,7 +7,11 @@ This repository is organized by fracture diameter and flowrate. For example the 
 
 The folder "z5kgs_1m_no_exit_perfs" holds all the input file for the 1m fracture diameter case where exit perforations and both perforations were turned off. The folder "z5kgs_2m_no_exit_perfs" holds all the input file for the 2m fracture diameter case where exit perforations and both perforations were turned off. 
 
+The folder "1fracturemodel" consists of just the 3rd fracture (closest to the toe of the well). There are inlet and exit perforations for this study, however these can be turned back into an Open Hole (no perfs) by setting the perforation flow channel diameter and area to the fracture diameter (2m in this case). This 1 fracture model has results for 5 kg/s and a 2 m fracture diameter. There is a folder in the "1fracturemodel" folder called "Powerpoint," this folder contains a detailed powerpoint explaining all the schematics of the 1 fracture model.
+
 Each folder also contains a Jupyter Notebook that will generate all the plots found in the "plots" folders. Each powerpoint slide with a plot on it has a list of each input and output file that was used in that case.
+
+The folder "Powerpoint" found in the main branch (not in the "1fracturemodel" folder) has a detailed explanation of the model set up and all the results from this study in a neat and organized matter. 
 
 Intern: Benjamin Willis
 
