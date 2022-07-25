@@ -1,4 +1,4 @@
-T_in = 293.15         # K
+T_in = 298.15         # K
 m_dot_in = 10.0     # kg/s
 p_bottom = 25.1865e6 #
 p_top = 101325      # Pa
@@ -114,7 +114,7 @@ n_part_elems_well3 = '50'
     axis = z
     xy_data = '
       -2800 469.15
-          0 293.15'
+          0 298.15'
   [../]
 
   [./initial_p_fn]
@@ -141,7 +141,7 @@ n_part_elems_well3 = '50'
     axis = z
     xy_data = '
       -2800 469.15
-          0 293.15'
+          0 298.15'
   [../]
   [pressure_set]
     type = ConstantFunction
