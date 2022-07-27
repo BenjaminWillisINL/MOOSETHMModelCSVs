@@ -13,6 +13,8 @@ Each folder also contains a Jupyter Notebook that will generate all the plots fo
 
 The folder "Powerpoint" found in the main branch (not in the "1fracturemodel" folder) has a detailed explanation of the model set up and all the results from this study in a neat and organized matter. 
 
+EXODUS Files: All exodus files have been uploaded to the repository and are not in the corresponding folder, however for a more detailed list of which exodus file corresponds to which input file, please refer to the "Powerpoint" folder, as all input and output files for each plot are listed there.
+
 Intern: Benjamin Willis
 
 Mentor: Robert Podgorney
